@@ -1,0 +1,20 @@
+[
+  {
+    "viewport": "360x800",
+    "patient_ui": "pass",
+    "hospital_ui": "pass",
+    "android_back_script": "pass"
+  },
+  {
+    "viewport": "390x844",
+    "patient_ui": "pass",
+    "hospital_ui": "pass",
+    "android_back_script": "pass"
+  },
+  {
+    "viewport": "412x915",
+    "patient_ui": "pass",
+    "hospital_ui": "pass",
+    "android_back_script": "pass"
+  }
+]

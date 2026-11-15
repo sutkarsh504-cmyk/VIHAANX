@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Integrity Emergency Care</string>
+<string name="connection_title">Unable to connect</string>
+<string name="connection_description">Check your internet connection and try again.</string>
+<string name="retry">Try again</string>
+<string name="no_handler">No app is available to open this link</string>
+</resources>
